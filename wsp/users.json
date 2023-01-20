@@ -1,0 +1,12 @@
+{
+    "users": [
+        {
+            "firstName": "dosik",
+            "lastName": "kogabaev",
+            "password": "PakitaLove",
+            "role": "admin",
+            "gender": "male",
+            "login": "dosikisodd"
+        }
+    ]
+}
